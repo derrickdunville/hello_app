@@ -1,5 +1,14 @@
 # README
 
+Created By: Derrick Dunville
+
+Goal: An introductory project to Ruby on Rails, Git & Heroku
+
+Overview: 
+	Installing Ruby on Rails
+	Configuring github repository for project
+	Deploying to production using Heroku
+
 This README would normally document whatever steps are necessary to get the
 application up and running.
 
